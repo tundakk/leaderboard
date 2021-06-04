@@ -1,0 +1,47 @@
+    body { background-color: #64becd;
+    margin: 0; height: 100%; overflow: hidden
+    }
+    .flex-container1 {
+    display: flex;
+    flex-direction:column;
+    background-color: #64becd;
+    height: 100vh;
+    }
+    .flex-container2 {
+    display: flex;
+    flex-wrap: wrap;
+    height: 25%;
+    background-color: #64becd;
+    padding: 5px;
+    }
+    .flex-container3 {
+    display: flex;
+    height: 32%;
+    justify-content:space-around;
+    background-color: #64becd;
+    padding: 5px;
+    }
+    .button1 {
+    border-radius: 23px;
+    font-size: 50px;		
+    width: 48%;
+    background-color: #065245;
+    }
+    .button1:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    
+    }
+    .button2 {
+    border-radius: 23px;
+    height: 100%;
+    width: 100%;
+    }
+    .tec_image{
+    height: 100%;
+    width: 100%;
+    }
+    .ikon{
+        width: auto;
+        max-height: 30.5px;
+    }
